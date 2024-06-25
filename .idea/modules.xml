@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CarAvoidenceGame.iml" filepath="$PROJECT_DIR$/.idea/modules/CarAvoidenceGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CarAvoidenceGame.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
